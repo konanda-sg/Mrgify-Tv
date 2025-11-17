@@ -11,13 +11,18 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 245,
-    "last_update": "2025-11-17 12:52 PM (BD Time)"
+    "total_channels": 246,
+    "last_update": "2025-11-17 01:36 PM (BD Time)"
   },
   "channels": [
     {
       "name": "T Sports HD 🇧🇩 📺 (1)",
       "url": "http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8",
+      "source": "Unknown"
+    },
+    {
+      "name": "T Sports HD 🇧🇩 📺 (2)",
+      "url": "http://stvlive.net:8080/tsports1/index.m3u8",
       "source": "Unknown"
     },
     {
