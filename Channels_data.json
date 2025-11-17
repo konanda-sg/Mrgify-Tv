@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 242,
-    "last_update": "2025-11-17 06:38 AM (BD Time)"
+    "total_channels": 243,
+    "last_update": "2025-11-17 07:24 AM (BD Time)"
   },
   "channels": [
     {
@@ -1203,6 +1203,11 @@
     {
       "name": "KANTARA A LEGEND: CHAPTER 1",
       "url": "http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Kantara%20Chapter%201%20(2025)%201080p%20WEBDL.mp4",
+      "source": "Unknown"
+    },
+    {
+      "name": "3BHK",
+      "url": "http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/South%20Indian%20(Hindi%20Dubbed)/3BHK%20(2025)%201080p%20WEBDL.mp4",
       "source": "Unknown"
     },
     {
