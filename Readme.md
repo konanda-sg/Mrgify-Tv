@@ -12,7 +12,7 @@
   <br>
 </h2>
 
-<h2 align="center">Auto-updating BDIX IPTV Playlist System (Every 10 Minutes)</h2>
+<h4 align="center">Auto-updating BDIX IPTV Playlist System (Every 10 Minutes)</h4>
 
   <a href="https://github.com/abusaeeidx/Mrgify-BDIX-IPTV/network/members">
     <img src="https://img.shields.io/github/forks/abusaeeidx/Mrgify-BDIX-IPTV?style=for-the-badge">
