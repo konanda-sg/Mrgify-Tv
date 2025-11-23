@@ -4,14 +4,13 @@
   <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="Mrgify-TV" width="80%">
 
 
-<h2>
+<h2 align="center">
   <br>
   📺 Mrgify-TV  
   <br>
   BDIX IPTV Playlist
   <br>
 </h2>
-</p>
 <h4 align="center">Auto-updating BDIX IPTV Playlist System (Every 10 Minutes)</h4>
 <p align="center">
   <a href="https://github.com/abusaeeidx/Mrgify-BDIX-IPTV">
