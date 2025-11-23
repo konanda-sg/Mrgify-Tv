@@ -91,11 +91,12 @@ https://is.gd/mrgifytv
 ---
 
 
-## 📌**Notice**  
+## **📌Notice**  
 
 <h3 This project is specifically targeted for users in 
 **Bangladesh** 🇧🇩  
 Some channels may **only work within Bangladesh** due to regional restrictions 🌍🔐
+  
   </h3>
 
 
